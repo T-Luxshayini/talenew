@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8bd70ddcf70384d6b4689d8b93b02a6",
+    "revision": "850426aeeed7015b27a13469f5044f0c",
     "url": "/talenew/index.html"
   },
   {
-    "revision": "61a3d0cb3c4d7a4b64ea",
+    "revision": "e1f42617727900b16edc",
     "url": "/talenew/static/css/main.0d352a0f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/talenew/static/js/3.b265e9c7.chunk.js"
   },
   {
-    "revision": "61a3d0cb3c4d7a4b64ea",
-    "url": "/talenew/static/js/main.7f608dc0.chunk.js"
+    "revision": "e1f42617727900b16edc",
+    "url": "/talenew/static/js/main.37482962.chunk.js"
   },
   {
     "revision": "d8c79c5016e884361938",
