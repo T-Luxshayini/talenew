@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/talenew/static/css/main.0d352a0f.chunk.css",
+    "main.js": "/talenew/static/js/main.7f608dc0.chunk.js",
+    "main.js.map": "/talenew/static/js/main.7f608dc0.chunk.js.map",
+    "runtime~main.js": "/talenew/static/js/runtime~main.87ae3208.js",
+    "runtime~main.js.map": "/talenew/static/js/runtime~main.87ae3208.js.map",
+    "static/js/2.dcddaa47.chunk.js": "/talenew/static/js/2.dcddaa47.chunk.js",
+    "static/js/2.dcddaa47.chunk.js.map": "/talenew/static/js/2.dcddaa47.chunk.js.map",
+    "static/js/3.b265e9c7.chunk.js": "/talenew/static/js/3.b265e9c7.chunk.js",
+    "static/js/3.b265e9c7.chunk.js.map": "/talenew/static/js/3.b265e9c7.chunk.js.map",
+    "index.html": "/talenew/index.html",
+    "precache-manifest.3faad6b6885e0d78513fb6d3785c690a.js": "/talenew/precache-manifest.3faad6b6885e0d78513fb6d3785c690a.js",
+    "service-worker.js": "/talenew/service-worker.js",
+    "static/css/main.0d352a0f.chunk.css.map": "/talenew/static/css/main.0d352a0f.chunk.css.map",
+    "static/media/about-us-image.jpg": "/talenew/static/media/about-us-image.d4be3623.jpg",
+    "static/media/templatemo-tale-seo-agency.css": "/talenew/static/media/video-bg.de7b2729.jpg",
+    "static/media/fontawesome.css": "/talenew/static/media/fa-v4compatibility.9d6f359a.ttf",
+    "static/media/faqs-image.jpg": "/talenew/static/media/faqs-image.9bf16f22.jpg",
+    "static/media/happyclient-01.jpg": "/talenew/static/media/happyclient-01.5519863b.jpg",
+    "static/media/left-infos.jpg": "/talenew/static/media/left-infos.751ad33b.jpg",
+    "static/media/video-thumb.jpg": "/talenew/static/media/video-thumb.72baace4.jpg"
+  }
+}
