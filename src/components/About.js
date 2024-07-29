@@ -86,7 +86,7 @@ function About(){
                 <h2>We Provide <em>Different Services</em> &amp;
                   <span>Features</span> For Your Agency</h2>
                   <div className="line-dec"></div>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
+                  <p>Lor ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
               </div>
             </div>
             <div className="col-lg-6 col-sm-6">
