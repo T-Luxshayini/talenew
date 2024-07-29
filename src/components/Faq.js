@@ -85,7 +85,7 @@ function Faq(){
     <div className="row">
       <div className="col-lg-7 align-self-center">
         <div className="caption  header-text">
-          <h6>SEO DIGITAL AGENCY</h6>
+          <h6>SE0 DIGITAL AGENCY</h6>
           <div className="line-dec"></div>
           <h4>Most Frequently Asked <em>Questions</em> Here <em>?</em></h4>
         </div>
